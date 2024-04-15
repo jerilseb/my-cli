@@ -8,8 +8,7 @@ A CLI app for testing purposes
 ### Homebrew
 
 ```
-brew tap jerilseb/tap
-brew install my-cli
+brew install jerilseb/tap/my-cli
 ```
 
 ### Binary
