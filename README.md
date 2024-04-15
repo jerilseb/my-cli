@@ -12,7 +12,7 @@ brew install jerilseb/tap/my-cli
 ```
 
 ### Binary
-You can also download the binary files for macOS, Linux, and Windows from the [Releases](https://github.com/jerilseb/my-cli/releases) page.
+Binary files for macOS, Linux, and Windows are available in the [Releases](https://github.com/jerilseb/my-cli/releases) page.
 
 
 ### From source
