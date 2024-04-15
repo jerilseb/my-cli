@@ -1,3 +1,4 @@
 *.tar.gz
 mycli
 mycli-*
+dist
