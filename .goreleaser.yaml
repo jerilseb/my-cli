@@ -20,7 +20,7 @@ archives:
             format: zip
 
 brews:
-    - name: mycli
+    - name: my-cli
       description: "A simple CLI for testing purposes"
       homepage: "https://github.com/jerilseb/my-cli"
       repository:
